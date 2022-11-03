@@ -15,3 +15,7 @@ I've included my recommended extensions and settings within the `.vscode` direct
 ## Building for Production
 
 Run `npm run build` to build to the `public` directory and `npm run serve` to serve it.
+
+## Acknowledgement
+
+The foundation of this starter was based off of [Stephanie Eckles' starter](https://thinkdobecreate.com/articles/minimum-static-site-sass-setup/). She has many great articles and projects that I recommend checking out!
