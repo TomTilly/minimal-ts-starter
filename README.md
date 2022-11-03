@@ -19,3 +19,5 @@ Run `npm run build` to build to the `public` directory and `npm run serve` to se
 ## Acknowledgement
 
 The foundation of this starter was based off of [Stephanie Eckles' starter](https://thinkdobecreate.com/articles/minimum-static-site-sass-setup/). She has many great articles and projects that I recommend checking out!
+
+Credit to [Logo Ipsum](https://logoipsum.com/) for the favicon.
